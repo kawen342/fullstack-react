@@ -1,3 +1,13 @@
+LINK DEMO TO DO LIST :
+https://fullstack-react-wheat.vercel.app/
+
+TAMPILAN TO DO LIST:
+![{A928F43B-D87A-452C-B5D0-D756D572AD00}](https://github.com/user-attachments/assets/14e93777-3dbf-4af8-91ad-1f8a76fb8387)
+![{22C0792A-E1A7-4B66-ABC5-EF991EA9E337}](https://github.com/user-attachments/assets/5548a42b-e440-4d2c-a997-5681eccea956)
+![{E753B407-75B7-4691-A3BD-BCDFB1FA02EB}](https://github.com/user-attachments/assets/ed221fb0-ccc2-45dc-b16d-feae4f5f8595)
+![{9D59ABB8-9F44-4032-BC79-9DB1F947B2D0}](https://github.com/user-attachments/assets/610aad8d-8c84-4448-9fc2-8b41c17ad14f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
